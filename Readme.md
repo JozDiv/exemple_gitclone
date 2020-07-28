@@ -1,1 +1,1 @@
-cours sur git
+cours de GIT
